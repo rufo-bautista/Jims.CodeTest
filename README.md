@@ -16,3 +16,6 @@ Projects:
           - The Main program has two paths. Depending on the value of the "CalculateHardCoded" node in the appsettings.json file, 
             the program either submits hard coded inputs to the gateway (CalculateHardCoded=true) or prompts the user to enter values for
             the input fields FirstNumber, SecondNumber and Operator before submitting it to the gateway (CalculateHardCoded=false).
+
+- tests/Jims.CodingTest.Calculator.Tests
+     - Unit tests for the src/Jims.CodingTest.Calculator project.
