@@ -2,6 +2,7 @@
 
 Solution: 
 - Jims.CodingTest.sln
+
 Projects:
 - src/Jims.CodingTest.Calculator: 
      - An AWS Lambda Function that receives inputs to calculate. 
