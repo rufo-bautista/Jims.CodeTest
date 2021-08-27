@@ -3,3 +3,9 @@
 ################################################################################
 
 /Jims.CodingTest/.vs/Jims.CodingTest
+/Jims.CodingTest/src/Jims.CodingTest.Calculator/bin
+/Jims.CodingTest/src/Jims.CodingTest.Calculator/obj
+/Jims.CodingTest/src/Jims.CodingTest.Console/bin/Debug/netcoreapp3.1
+/Jims.CodingTest/src/Jims.CodingTest.Console/obj
+/Jims.CodingTest/tests/Jims.CodingTest.Calculator.Tests/bin/Debug/netcoreapp3.1
+/Jims.CodingTest/tests/Jims.CodingTest.Calculator.Tests/obj
